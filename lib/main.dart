@@ -12,7 +12,7 @@ class xyz extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Brr Softwares'),
+        title: Text('Brr Softwares Pvt Ltd.'),
         centerTitle: true,
         backgroundColor: Colors.orange,
       ),
